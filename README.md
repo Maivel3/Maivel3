@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Maivel Maher 👋
+a computer science undergraduate student in my last senior year at Ain Shams University. I'm very passionate about computer science and constantly exploring new technologies.
 
-<!--
-**Maivel3/Maivel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me :
+- 🎓 Studying Software Engineering at Ain Shams University
+- 💻 Interested in Web Development, and Machine Learning and AI
+- 🤖 Learning and exploring new technologies and programming languages
+- 🎮 Love playing video games
 
-Here are some ideas to get you started:
+## Achievments :
+- 🎉 Ranked top 10% in a computer vision kaggle competition ⭐️
+- 🥇 Earned 3rd best project in a computer vision compititon organized by Ain Shams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Maivel3&show_icons=true&theme=dark)](https://github.com/Maivel3)
+
+
